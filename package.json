@@ -1,0 +1,25 @@
+{
+  "name": "FitFood_API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogobh93/FitFood_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogobh93/FitFood_API/issues"
+  },
+  "homepage": "https://github.com/diogobh93/FitFood_API#readme"
+}
