@@ -1,4 +1,6 @@
 # FitFood_API
+Returns specific nutritional information for foods and meals.
+**Food names** **calories** **protein** **cholesterol** **carbohydrate** **fiber**
 
 NodeJs and express project created.
 
