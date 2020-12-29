@@ -4790,7 +4790,8 @@ app.get('/foods', (request, response)=> {
 
     // Verifica se na lista tem o alimento
     let itens = listFoods.filter((element) => {
-        return element.alimento.includes(title);
+        
+        return element.alimento.toLowerCase().includes(title.toLowerCase());
     })
     
   // retorno com a lista dos alimentros encontrados
