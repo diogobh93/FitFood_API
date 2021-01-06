@@ -3887,7 +3887,7 @@ const listFoods = [
     fibra: "NA"
   },
   {
-    alimento: "Ovo de galinha clara cozida/10minutos",
+    alimento: "Ovo de galinha clara cozida",
     calorias: "59",
     proteina: "13,4",
     colesterol: "NA",
@@ -3895,7 +3895,7 @@ const listFoods = [
     fibra: "NA"
   },
   {
-    alimento: "Ovo de galinha gema cozida/10minutos",
+    alimento: "Ovo de galinha gema cozida",
     calorias: "353",
     proteina: "15,9",
     colesterol: "1272",
@@ -3903,7 +3903,7 @@ const listFoods = [
     fibra: "NA"
   },
   {
-    alimento: "Ovo de galinha inteiro cozido/10minutos",
+    alimento: "Ovo de galinha inteiro cozido",
     calorias: "146",
     proteina: "13,3",
     colesterol: "397",
